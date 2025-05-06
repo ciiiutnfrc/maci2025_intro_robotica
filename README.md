@@ -16,3 +16,9 @@ Este curso plantea los fundamentos de la robótica móvil como disciplina dentro
 1. [Introducción a la robótica móvil. Definiciones y aplicaciones](maci2025_introrob1.pdf).
 1. [Locomoción y sensores en robóts móviles. Ejemplos de robots móviles](maci2025_introrob2.pdf).
 1. [Programación de robots. ROS y Gazebol](maci2025_introrob3.pdf).
+
+## Actividades prácticas
+Las actividades se realizan utilizando la plataforma online [The Construct (Robotics Institute)](https://www.theconstruct.ai/); para lo cual se debe crear un usuario e iniciar sesión.
+
+* [**Día 1**](PracticaDia1.md): puesta en marcha de modelos de simulación de [Gazebo Sim](https://gazebosim.org/).
+* [**Día 2**](PracticaDia2.md): interacción entre el simulador [Gazebo Sim](https://gazebosim.org/) y [ROS](https://www.ros.org/).
