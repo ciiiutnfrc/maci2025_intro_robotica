@@ -11,3 +11,8 @@ Centro de Investigación en Informática para la Ingeniería, [CIII – UTN – 
 
 ### Resumen
 Este curso plantea los fundamentos de la robótica móvil como disciplina dentro de la ingeniería, centrándose en robots con ruedas, particularmente los de tracción diferencial. Los estudiantes aprenderán los principios básicos de locomoción y sensorística de robots, utilizando ejemplos prácticos de robots móviles ampliamente utilizados en investigación e industria. Se presentará en detalle diferentes robots fabricados en el Centro de Investigación en Informática para la Ingeniería (CIII) de la UTN-FRC. Además, podrá realizar prácticas con diferentes robots móvil en el entorno de simulación Gazebo en la plataforma ROSDS.
+
+## Material
+1. [Introducción a la robótica móvil. Definiciones y aplicaciones](maci2025_introrob1.pdf).
+1. [Locomoción y sensores en robóts móviles. Ejemplos de robots móviles](maci2025_introrob2.pdf).
+1. [Programación de robots. ROS y Gazebol](maci2025_introrob3.pdf).
