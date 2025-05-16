@@ -23,7 +23,7 @@ El entorno ROS de `TheConstruct` consiste de diferentes ventanas flotantes sobre
 
 * En la ventana de la shell ejecutar:
     ```
-    gz sin
+    gz sim
     ```
     (escribir el comando indicado y presionar ENTER)
 * Se deberá abrir una nueva ventana que muestra un escritorio remoto o virtual, donde se mostrará la ventana _"Gazebo quick start"_ del simulador.

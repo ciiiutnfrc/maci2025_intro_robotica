@@ -5,6 +5,7 @@ Curso [dictado](https://asamaci.org.ar/maci2025/cursoscortos/) en el marco de _X
 Profesores:
 * Dr. Ing. Gonzalo Perez Paina.
 * Dr. Ing. Diego González Dondo.
+
 Días 13 y 14  de mayo de 13:30 a 17:30. Aula 935 Edificio Possetto.
 
 Centro de Investigación en Informática para la Ingeniería, [CIII – UTN – FRC](https://ciii.frc.utn.edu.ar/ciii/)
