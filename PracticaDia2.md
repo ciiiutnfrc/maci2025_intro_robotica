@@ -9,7 +9,7 @@ Las actividades indicadas a continuación consisten en poner en marcha la simula
 
 En las actividades indicadas a continuación se necesitarán tener activas varias ventanas Shell.
 
-## Instalación y ejecuión del modelo de simulación `bcr_bot`
+## Instalación y ejecución del modelo de simulación `bcr_bot`
 Los siguientes pasos consisten en descargar el modelo de simulación del robot [`bcr_bot`](https://github.com/blackcoffeerobotics/bcr_bot), construir los paquete ROS y ejecutar la simulación.
 
 1. Crear un espacio de trabajo ROS, descargar el repositorio y construir el proyecto; ejecutando los siguientes comandos uno por uno:
